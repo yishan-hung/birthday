@@ -24,8 +24,8 @@ var config = {
         "反正你在我眼裡怎樣都閃閃發光",
         "You will shine in your own way",
         "So live a life you will remember",
-        "Best wishes and best 17 years old."
-        "Love you my bestie ;)"
+        "Best wishes and best 17 years old.",
+        "Love you my bestie ;)",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
